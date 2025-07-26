@@ -18,8 +18,7 @@ workflows**
   ## 🚀 Current Focus
   💻 Building full-stack applications with **AI-assisted development** (see:
   Market Awareness App)
-  🤓 Exploring **real-time data integration** and financial APIs with AI
-  guidance
+  🤓 Exploring **real-time data integration** and financial APIs
   🎯 Expanding from traditional frontend to **full-stack with AI 
   collaboration**
   🎼 Still a fan of classical music - Brahms, Bach and Mozart fuel my coding
