@@ -7,13 +7,6 @@ workflows**
   **leveraging AI to build better software faster**. Experience in developing
    web applications with React and Node. 
 
-  ## 🤖 My AI-Integrated Workflow
-  - **Claude Code**: Complex feature development, architectural decisions,
-  and comprehensive documentation
-  - **Modern Stack**: Next.js 14, TypeScript, Supabase, real-time APIs
-  - **AI-Assisted Design**: From requirements gathering to production
-  deployment
-
   ## 🚀 Current Focus
   💻 Building full-stack applications with **AI-assisted development** (see:
   Market Awareness App)
