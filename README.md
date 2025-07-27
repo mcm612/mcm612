@@ -5,8 +5,7 @@ workflows**
 
   I'm driven and passionate about front-end development and design, now
   **leveraging AI to build better software faster**. Experience in developing
-   web applications with HTML5, CSS3, JavaScript, Node.js, React.js, and
-  Redux.js, enhanced by **AI-assisted architecture and rapid prototyping**.
+   web applications with React and Node. 
 
   ## 🤖 My AI-Integrated Workflow
   - **Claude Code**: Complex feature development, architectural decisions,
