@@ -19,7 +19,5 @@ workflows**
   ## 📊 Recent AI-Assisted Projects
   - **[Market Awareness](https://github.com/mcm612/market-awareness)**:
   Real-time stock sentiment analysis with Next.js + Supabase
-  - **AI-Powered Development**: Comprehensive documentation and session
-  continuity patterns
 
   📪 **Reach me**: michael.manguart@gmail.com
